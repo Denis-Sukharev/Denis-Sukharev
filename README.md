@@ -2,8 +2,6 @@
 <h2 align="center">Резюме: <a href="ССЫЛКА" target="_blank">Google Drive</a></h2>
 
 
----
-
 ### 💻 Pet-проекты
 <p align="center">
   <a href="https://github.com/Denis-Sukharev/hotel-search-system">
@@ -17,7 +15,6 @@
 
 ### Связаться со мной
 [<img align="left" width="30px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:sukharev.original@gmail.com)
-
 [<img align="left" width="30px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/denis_sukharev)
 
 
