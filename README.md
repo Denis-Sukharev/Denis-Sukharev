@@ -17,13 +17,6 @@
 ---
 
 ### Связаться со мной
-<p align="left">
-  <a href="mailto:sukharev.original@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="36" height="36" alt="Gmail" style="margin-right: 10px;" />
-  </a>
-  <a href="https://t.me/denis_sukharev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="36" height="36" alt="Telegram" style="margin-right: 10px;" />
-  </a>
-</p>
+[<img align="left" width="30px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/denis_sukharev)
 
 
