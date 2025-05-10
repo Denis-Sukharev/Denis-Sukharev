@@ -1,5 +1,4 @@
-<h1 align="center">Сухарев Денис</h1>
-<h3 align="center">ML Engineer | Data Scientist</h3>
+<h1 align="center">ML Engineer | Data Scientist</h1>
 <h3 align="center">Резюме: <a href="ССЫЛКА" target="_blank">Google Drive</a></h3>
 
 
