@@ -17,7 +17,7 @@
 ---
 
 ### Связаться со мной
-[<img align="left" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:sukharev.original@gmail.com)
+[<img align="left" width="30px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:sukharev.original@gmail.com)
 
 [<img align="left" width="30px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/denis_sukharev)
 
