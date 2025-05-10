@@ -1,5 +1,5 @@
 <h1 align="center">ML Engineer | Data Scientist</h1>
-<h3 align="center">Резюме: <a href="ССЫЛКА" target="_blank">Google Drive</a></h3>
+<h2 align="center">Резюме: <a href="ССЫЛКА" target="_blank">Google Drive</a></h2>
 
 
 ---
