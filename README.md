@@ -1,14 +1,12 @@
 <h1 align="center">ML Engineer | Data Scientist</h1>
-<h2 align="center">Резюме: <a href="ССЫЛКА" target="_blank">Google Drive</a></h2>
 
+### 📄 Резюме
 
-### 💻 Pet-проекты
-<p align="center">
-  <a href="https://github.com/Denis-Sukharev/hotel-search-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denis-Sukharev&repo=hotel-search-system&hide_border=true&theme=dracula" alt=""/>
-  </a>
-</p>
+Опубликовано в [Google Drive](ССЫЛКА)
 
+### 💻 Проекты
+
+[Местечко](https://github.com/Denis-Sukharev/hotel-search-system) – информационная система подбора гостиницы на основании мест, обязательных к посещению
 
 
 ---
