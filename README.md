@@ -2,7 +2,7 @@
 
 ### 📄 Резюме
 
-Опубликовано в [Google Drive](ССЫЛКА)
+Опубликовано в [Google Drive](https://drive.google.com/drive/folders/1ygdgQ66kT1Nm18reZYQIWGYD0AsBJs9m?usp=drive_link)
 
 ### 💻 Проекты
 
